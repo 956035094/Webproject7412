@@ -1,3 +1,0 @@
-- Use npm install to install necessary modules.
-- Start a MySQL server.
-- Use npm start to run it.
